@@ -38,11 +38,11 @@
           you run your own server, giving you full control over
           <i>everything.</i>
         </p>
-        <p class="text-gray-100 w-full md:w-3/4 mx-auto text-md">
+        <p class="text-gray-100 mx-auto text-md">
           Powered by you. Anyone can run their own server, expanding the
           decentralized network.
         </p>
-        <p class="text-gray-100 w-full md:w-3/4 mx-auto text-md">
+        <p class="text-gray-100 mx-auto text-md">
           Livestreams are peer to peer. This means once a few viewers have
           started the stream, future viewers will receive the stream via the
           other viewers, reducing bandwidth significantly.
