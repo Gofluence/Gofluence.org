@@ -15,9 +15,9 @@
     <button
       class="hidden md:flex bg-indigo-800 px-2 py-1 rounded text-white text-md"
       on:click={gotoGithub}>
-      Interested? Star on Github
+      Interested? Star on GitHub
     </button>
-    <button class="flex md:hidden" on:click={gotoGithub}>
+    <button class="flex md:hidden" on:click={gotoGithub} aria-label="Star on GitHub">
       <svg viewBox="0 0 20 20" fill="currentColor" class="star text-white w-6 h-6">
         <path
           d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0
