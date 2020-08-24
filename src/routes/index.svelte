@@ -43,7 +43,7 @@
           decentralized network.
         </p>
         <p class="text-gray-100 mx-auto text-md">
-          Livestreams are peer to peer. This means once a few viewers have
+          Livestreams are peer to peer. This means that once a few viewers have
           started the stream, future viewers will receive the stream via the
           other viewers, reducing bandwidth significantly.
         </p>
