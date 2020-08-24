@@ -22,6 +22,7 @@
 
 <svelte:head>
   <title>Gofluence: The Future of Streaming</title>
+  <link rel="preload" href="/fonts/Rubik-Bold.woff" as="font" type="font/woff" crossorigin>
 </svelte:head>
 <div class="header">
   <Navbar />
