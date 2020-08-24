@@ -8,9 +8,9 @@
     %sapper.base%
 
     <link rel="manifest" href="manifest.json" crossorigin="use-credentials" />
+    <link rel="preload" href="index.css" as="style">
     <link rel="icon" type="image/svg" href="/img/icon-blue.svg" />
-    <link rel="stylesheet" href="index.css" />
-    <link rel="preload" href="/fonts/Rubik-Bold.woff" as="font" type="font/woff">
+    
     <meta name="title" content="Gofluence Livestreaming" />
     <meta
       name="description"
@@ -40,4 +40,5 @@
 	     because `src/client.js` references it -->
     <div id="gofluence">%sapper.html%</div>
   </body>
+  <link rel="stylesheet" href="index.css" />
 </html>
