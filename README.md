@@ -1,2 +1,1 @@
-# Gofluence.org
-Gofluence.org site
+# The Gofluence.org site
