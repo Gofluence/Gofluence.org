@@ -22,11 +22,12 @@
 
 <svelte:head>
   <title>Gofluence: The Future of Streaming</title>
-  <link rel="preload" href="/fonts/Rubik-Bold.woff" as="font" type="font/woff" crossorigin>
 </svelte:head>
 <div class="header">
   <Navbar />
-  <div class="flex flex-col lg:flex-row p-5 my-auto lg:pt-48 justify-start bg-indigo-700">
+  <div
+    class="flex flex-col lg:flex-row p-5 my-auto lg:pt-48 justify-start
+    bg-indigo-700">
     <div class="welcome flex-1 text-center">
       <h1
         class="text-2xl md:text-6xl text-gray-100 text-center mb-2"
