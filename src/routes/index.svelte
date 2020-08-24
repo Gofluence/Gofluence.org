@@ -26,7 +26,7 @@
 <div class="header">
   <Navbar />
   <div
-    class="flex flex-col lg:flex-row p-5 my-auto lg:pt-48 justify-start
+    class="flex flex-col lg:flex-row my-auto md:pt-12 xl:pt-48 justify-start
     bg-indigo-700">
     <div class="welcome flex-1 text-center">
       <h1
